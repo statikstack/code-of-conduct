@@ -5,7 +5,7 @@
 Com o interesse de fomentar um ambiente aberto e acolhedor,
 nós, como colaboradores e administradores, comprometemo-nos
 a fazer a participação deste projeto e em nossa comunidade uma experiência livre de assédio
-para todos, independentemente da idade, tamanho do corpo, deficiência, etnia, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+para todos, independentemente da idade, tamanho do corpo, deficiência, etnia, identidade e expressão de gênero, nível de experiência, educação, situação socioeconômica, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
 ## Nossos padrões
 
