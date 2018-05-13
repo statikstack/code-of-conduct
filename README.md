@@ -10,7 +10,7 @@ If you are running a Statik meetup, conference, user group, or other type of eve
 
 ## Translations
 
-For translations of the Statik Contributor Code of Conduct, take a look at [translations page](../i18n/README.md).
+For translations of the Statik Contributor Code of Conduct, take a look at [translations page](i18n/README.md).
 
 ## Credits
 
