@@ -1,6 +1,6 @@
 # Código de Conduta para Colaboradores do Statik
 
-Veja em [CODE_OF_CONDUCT.md](../i18n/pt-br/CODE_OF_CONDUCT.md).
+Veja em [CODE_OF_CONDUCT.md](i18n/pt-br/CODE_OF_CONDUCT.md).
 
 Este código de conduta aplica-se a todos os projetos da [organização Statik no GitHub](https://github.com/statikstack/) e na comunidade Statik em geral (Slack, Twitter, eventos, listas de discussão, etc.).
 

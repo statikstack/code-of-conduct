@@ -1,6 +1,6 @@
 # Statik Contributor Code of Conduct
 
-See [CODE_OF_CONDUCT.md](.../CODE_OF_CONDUCT.md).
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 This code of conduct applies to all of the projects under the [Statik organization on GitHub](https://github.com/statikstack/) and the Statik community at large (Slack, Twitter, events, mailing lists, etc.).
 
